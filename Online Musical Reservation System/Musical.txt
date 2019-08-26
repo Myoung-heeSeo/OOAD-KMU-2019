@@ -1,0 +1,6 @@
+1, Phantom of the Opera, Jun 20th 2019, 7 PM, Majestic Theatre, 60, 90$
+2, Chicago, Jul 3th 2019, 3 PM, Ambassador Theatre, 60, 90$
+3, The Lion King, Jun 27th 2019, 8 PM, Minskoff Theatre, 60, 90$
+4, Cats, Aug 2th 2019, 4 PM, Winter Garden Theatre, 60, 90$
+5, Les Miserables, Aug 6th 2019, 7 PM, Broadway Theatre, 60, 80$
+6, Wicked, Jul 8th 2019, 2 PM, George Gershwin Theatre, 60, 80$
